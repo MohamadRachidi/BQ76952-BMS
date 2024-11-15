@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BAT- Pin=R22-2
+Removed Pin From Net: NetName=PGND Pin=R23-2
+Removed Pin From Net: NetName=BAT- Pin=R24-1
+Removed Pin From Net: NetName=PGND Pin=R24-4
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=R24-1
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=R24-4
+Added Net: Name=NetR23_2

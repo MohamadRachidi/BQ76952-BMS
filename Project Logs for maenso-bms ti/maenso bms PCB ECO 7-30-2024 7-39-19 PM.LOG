@@ -1,0 +1,261 @@
+Add Component: Footprint Not Found 1206_180
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0805_HV
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0805_HV
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0805_HV
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0603S
+Add Component: Footprint Not Found 0805_HV
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 1206_180
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found SOD-123
+Add Component: Footprint Not Found FP-OSTTE060161_HDR6-MFG
+Add Component: Footprint Not Found Sullins_PxC05SAAN
+Add Component: Footprint Not Found FP-OSTTE050161_HDR5-MFG
+Add Component: Footprint Not Found FP-OSTTE060161_HDR6-MFG
+Add Component: Footprint Not Found Sullins_PEC06SAAN
+Add Component: Footprint Not Found Molex_87898-0304
+Add Component: Footprint Not Found Molex_87898-0304
+Add Component: Footprint Not Found Net-Tie_10milWide_30milLong
+Add Component: Footprint Not Found SOT-89-3
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 1210M
+Add Component: Footprint Not Found THERMISTOR_103AT-2
+Add Component: Footprint Not Found THERMISTOR_103AT-2
+Add Component: Footprint Not Found SW_KST221JLFS
+Add Component: Footprint Not Found SW_KST221JLFS
+Add Component: Footprint Not Found Keystone5010
+Add Component: Footprint Not Found TP_VIA_060RND040
+Add Component: Footprint Not Found TP_VIA_060RND040
+Add Component: Footprint Not Found TP_VIA_060RND040
+Add Component: Footprint Not Found TP_VIA_060RND040
+Add Component: Footprint Not Found TP_VIA_060RND040
+Add Component: Footprint Not Found TP_VIA_060RND040
+Add Component: Footprint Not Found TP_VIA_060RND040
+Add Component: Footprint Not Found Keystone5011
+Add Component: Footprint Not Found TP_50MIL-25MILHOLE
+Add Component: Footprint Not Found TP_50MIL-25MILHOLE
+Add Component: Footprint Not Found TP_50MIL-25MILHOLE
+Add Component: Footprint Not Found TP_50MIL-25MILHOLE
+Add Component: Footprint Not Found Keystone5006
+Add Component: Footprint Not Found Keystone5006
+Add Component: Footprint Not Found Keystone5006
+Add Component: Footprint Not Found Keystone5006
+Add Component: Footprint Not Found TP_VIA_060RND040
+Add Component: Footprint Not Found TP_VIA_060RND040
+Added Component: Designator=U1(PFB0048A_N)
+Add component (AddParameter): Name = "AEC Category"; Value = "Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AEC Qualified"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = "bq76952PFBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/bq76952.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Product Folder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/product/bq76952"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Online Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/product/bq76952/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_EU RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_EU RoHS-2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_REACh"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TQFP-48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PFB0048A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "bq76952PFBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeArea_mm2"; Value = "81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeAreaWB_mm2"; Value = "121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeX_mm"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeY_mm"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeZ_mm"; Value = "1.2"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C71-2
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin NT1-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R30-1
+Add Pin To Net: Unknown Pin: Pin RT1-2
+Add Pin To Net: Unknown Pin: Pin RT2-2
+Add Pin To Net: Unknown Pin: Pin TP14-1
+Add Pin To Net: Unknown Pin: Pin TP15-1
+Add Pin To Net: Unknown Pin: Pin TP16-1
+Add Pin To Net: Unknown Pin: Pin TP17-1
+Add Pin To Net: Unknown Pin: Pin TP18-1
+Added Pin To Net: NetName=VSS Pin=U1-17
+Added Pin To Net: NetName=FUSE Pin=U1-38
+Added Pin To Net: NetName=PDSG Pin=U1-39
+Added Pin To Net: NetName=PCHG Pin=U1-40
+Added Pin To Net: NetName=LD Pin=U1-41
+Added Pin To Net: NetName=PACK Pin=U1-42
+Added Pin To Net: NetName=DSG Pin=U1-43
+Added Pin To Net: NetName=CHG Pin=U1-45
+Added Net: Name=1P
+Added Net: Name=2P
+Added Net: Name=3P
+Added Net: Name=4P
+Added Net: Name=5P
+Added Net: Name=6P
+Added Net: Name=7P
+Added Net: Name=8P
+Added Net: Name=9P
+Added Net: Name=10P
+Added Net: Name=11P
+Added Net: Name=12P
+Added Net: Name=13P
+Added Net: Name=14P
+Added Net: Name=15P
+Added Net: Name=16P
+Added Pin To Net: NetName=ALERT Pin=U1-25
+Added Net: Name=ALERT
+Added Net: Name=BAT-
+Added Pin To Net: NetName=BREG Pin=U1-37
+Added Net: Name=BREG
+Added Pin To Net: NetName=CFETOFF Pin=U1-29
+Added Net: Name=CFETOFF
+Added Pin To Net: NetName=DCHG Pin=U1-31
+Added Net: Name=DCHG
+Added Pin To Net: NetName=DDSG Pin=U1-32
+Added Net: Name=DDSG
+Added Pin To Net: NetName=DFETOFF Pin=U1-30
+Added Net: Name=DFETOFF
+Added Net: Name=EXTTS2
+Added Pin To Net: NetName=HDQ Pin=U1-28
+Added Net: Name=HDQ
+Added Pin To Net: NetName=NetC1_1 Pin=U1-47
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-46
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC25_2 Pin=U1-24
+Added Net: Name=NetC25_2
+Added Net: Name=NetC71_1
+Added Net: Name=NetD1_1
+Added Net: Name=NetD2_1
+Added Net: Name=NetJ2_4
+Added Net: Name=NetJ6_1
+Added Net: Name=NetJ6_3
+Added Net: Name=NetJ7_3
+Added Net: Name=NetR5_1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetRT1_1 Pin=U1-21
+Added Net: Name=NetRT1_1
+Added Pin To Net: NetName=NetRT2_1 Pin=U1-23
+Added Net: Name=NetRT2_1
+Added Pin To Net: NetName=REG1 Pin=U1-35
+Added Net: Name=REG1
+Added Pin To Net: NetName=REG2 Pin=U1-34
+Added Net: Name=REG2
+Added Pin To Net: NetName=REGIN Pin=U1-36
+Added Net: Name=REGIN
+Added Pin To Net: NetName=RST_SHUT Pin=U1-33
+Added Net: Name=RST_SHUT
+Added Pin To Net: NetName=SCL Pin=U1-26
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U1-27
+Added Net: Name=SDA
+Added Pin To Net: NetName=SRN Pin=U1-20
+Added Net: Name=SRN
+Added Pin To Net: NetName=SRP Pin=U1-18
+Added Net: Name=SRP
+Added Pin To Net: NetName=TS2 Pin=U1-22
+Added Net: Name=TS2
+Added Pin To Net: NetName=VC0 Pin=U1-16
+Added Net: Name=VC0
+Added Pin To Net: NetName=VC1 Pin=U1-15
+Added Net: Name=VC1
+Added Pin To Net: NetName=VC2 Pin=U1-14
+Added Net: Name=VC2
+Added Pin To Net: NetName=VC3 Pin=U1-13
+Added Net: Name=VC3
+Added Pin To Net: NetName=VC4 Pin=U1-12
+Added Net: Name=VC4
+Added Pin To Net: NetName=VC5 Pin=U1-11
+Added Net: Name=VC5
+Added Pin To Net: NetName=VC6 Pin=U1-10
+Added Net: Name=VC6
+Added Pin To Net: NetName=VC7 Pin=U1-9
+Added Net: Name=VC7
+Added Pin To Net: NetName=VC8 Pin=U1-8
+Added Net: Name=VC8
+Added Pin To Net: NetName=VC9 Pin=U1-7
+Added Net: Name=VC9
+Added Pin To Net: NetName=VC10 Pin=U1-6
+Added Net: Name=VC10
+Added Pin To Net: NetName=VC11 Pin=U1-5
+Added Net: Name=VC11
+Added Pin To Net: NetName=VC12 Pin=U1-4
+Added Net: Name=VC12
+Added Pin To Net: NetName=VC13 Pin=U1-3
+Added Net: Name=VC13
+Added Pin To Net: NetName=VC14 Pin=U1-2
+Added Net: Name=VC14
+Added Pin To Net: NetName=VC15 Pin=U1-1
+Added Net: Name=VC15
+Added Pin To Net: NetName=VC16 Pin=U1-48
+Added Net: Name=VC16
+Added Class: Name=BMS029B_Monitor

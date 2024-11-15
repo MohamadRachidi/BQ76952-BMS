@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VSS Pin=X2-E1
+Removed Pin From Net: NetName=PGND Pin=X2-E2
+Removed Pin From Net: NetName=VSS Pin=X2-I1
+Removed Pin From Net: NetName=PGND Pin=X2-I2
+Added Pin To Net: NetName=PGND Pin=X2-E1
+Added Pin To Net: NetName=VSS Pin=X2-E2
+Added Pin To Net: NetName=PGND Pin=X2-I1
+Added Pin To Net: NetName=VSS Pin=X2-I2

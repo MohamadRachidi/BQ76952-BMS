@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=J2-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=J2-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=J2-3
+Removed Pin From Net: NetName=NetJ2_4 Pin=J2-4
+Removed Pin From Net: NetName=NetJ2_5 Pin=J2-5
+Removed Pin From Net: NetName=NetJ3_1 Pin=J3-1
+Removed Pin From Net: NetName=NetJ3_2 Pin=J3-2
+Removed Pin From Net: NetName=NetJ3_3 Pin=J3-3
+Removed Pin From Net: NetName=NetJ3_4 Pin=J3-4
+Removed Pin From Net: NetName=BAT- Pin=J3-6
+Removed Pin From Net: NetName=NetJ6_3 Pin=J6-3
+Removed Pin From Net: NetName=PACK+ Pin=J7-1
+Removed Pin From Net: NetName=PACK+ Pin=J7-2
+Removed Pin From Net: NetName=PGND Pin=J7-3
+Removed Pin From Net: NetName=PGND Pin=J7-4
+Removed Pin From Net: NetName=FBAT Pin=NT2-2
+Removed Pin From Net: NetName=NetJ3_1 Pin=R15-1
+Removed Pin From Net: NetName=NetJ3_2 Pin=R16-1
+Removed Pin From Net: NetName=NetJ3_3 Pin=R18-1
+Removed Pin From Net: NetName=NetJ3_4 Pin=R19-1
+Removed Pin From Net: NetName=NetC1_1 Pin=TP1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=TP2-1
+Removed Pin From Net: NetName=NetRT1_1 Pin=TP6-1
+Removed Pin From Net: NetName=NetRT2_1 Pin=TP7-1
+Removed Pin From Net: NetName=TS2 Pin=TP9-1
+Removed Pin From Net: NetName=VSS Pin=TP14-1
+Removed Pin From Net: NetName=BAT- Pin=TP15-1
+Removed Pin From Net: NetName=FBAT Pin=TP16-1
+Removed Member From Class: ClassName=BMS029B_FETs Member=J7
+Removed Member From Class: ClassName=BMS029B_FETs Member=NT2
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP1
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP2
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP6
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP7
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP9
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP14
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP15
+Removed Member From Class: ClassName=BMS029B_FETs Member=TP16
+Change Component Footprint: Designator=J6 Old Footprint=MOLEX_87898-0304 New Footprint=2 pin header
+Change Component Footprint: Designator=S1 Old Footprint=SW_KST221JLFS New Footprint=L-KLS7-TS3402-2-5
+Change Component Footprint: Designator=S2 Old Footprint=SW_KST221JLFS New Footprint=L-KLS7-TS3402-2-5
+Change Component Comment : Designator=J6 Old Comment= New Comment=Jumper
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change component parameters: Designator = "J6" ("J6"); Footprint = "MOLEX_87898-0304"; UniqueID = "\BXMMGOBT" ("\BXMMGOBT")
+Added Component: Designator=J8(AMASS_XT60PW-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(AMASS_XT60PW-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(AMASS_XT60PW-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J11(AMASS_XT60PW-M)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=D3-2
+Added Pin To Net: NetName=NetD1_2 Pin=F1-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=BAT- Pin=J3-5
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-1
+Added Pin To Net: NetName=NetD1_2 Pin=J8-1
+Added Pin To Net: NetName=NetD1_2 Pin=J8-2
+Added Pin To Net: NetName=PACK+ Pin=J9-1
+Added Pin To Net: NetName=PACK+ Pin=J9-2
+Added Pin To Net: NetName=VSS Pin=J10-1
+Added Pin To Net: NetName=VSS Pin=J10-2
+Added Pin To Net: NetName=PGND Pin=J11-1
+Added Pin To Net: NetName=PGND Pin=J11-2
+Added Pin To Net: NetName=NetJ3_1 Pin=R16-1
+Added Pin To Net: NetName=NetJ3_2 Pin=R18-1
+Added Pin To Net: NetName=NetJ3_3 Pin=R19-1
+Added Pin To Net: NetName=NetJ3_4 Pin=R20-1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=BAT+
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=NetJ6_1
+Change Net Name : Old Net Name=SRN New Net Name=NetC27_1
+Change Net Name : Old Net Name=SRP New Net Name=NetC27_2
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=NetJ2_6 Pin=R15-1
+Added Net: Name=NetJ2_6
+Added Member To Class: ClassName=BMS029B_FETs Member=Component J8 XT60PW-M
+Added Member To Class: ClassName=BMS029B_FETs Member=Component J9 XT60PW-M
+Added Member To Class: ClassName=BMS029B_FETs Member=Component J10 XT60PW-M
+Added Member To Class: ClassName=BMS029B_FETs Member=Component J11 XT60PW-M

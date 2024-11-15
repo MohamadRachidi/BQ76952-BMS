@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BAT- Pin=R33-1
+Removed Pin From Net: NetName=PGND Pin=R33-2
+Removed Member From Class: ClassName=BMS029B_Monitor Member=R33
+Added Component: Designator=R57(RES_WSK25121L000FEA)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WSK25121L000FEA/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WSK25121L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2512 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WSK25121L000FEA/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC27_1 Pin=J9-1
+Added Pin To Net: NetName=BAT- Pin=R57-1
+Added Pin To Net: NetName=BAT- Pin=R57-2
+Added Pin To Net: NetName=PGND Pin=R57-3
+Added Pin To Net: NetName=PGND Pin=R57-4
+Added Pin To Net: NetName=NetC27_1 Pin=U1-21
+Change Net Name : Old Net Name=NetC27_1 New Net Name=sicaklik2
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R57 WSK25121L000FEA

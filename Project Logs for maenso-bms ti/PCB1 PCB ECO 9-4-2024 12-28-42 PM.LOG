@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=BMS029B_FETs Member=J7
+Change Component Footprint: Designator=R44 Old Footprint=0603S New Footprint=0603S
+Change Component Footprint: Designator=R51 Old Footprint=0603S New Footprint=0603S
+Change Component Footprint: Designator=F1 Old Footprint=FUSE_SFK-XX30X New Footprint=120 Amperes SFM Series Self Control Protector(SCP)
+Change Component Footprint: Designator=Q8 Old Footprint=PG-TDSON-8 New Footprint=PG-TDSON-8
+Change Component Footprint: Designator=Q9 Old Footprint=PG-TDSON-8 New Footprint=PG-TDSON-8
+Change Component Comment : Designator=F1 Old Comment=SFK-3030 New Comment=Fuse_SFK_XX120
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C2 C3216X7R2A105K160AA
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C15 Capacitor_0805
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C27 Capacitor_0805
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component J3 OSTTE060161
+Added Member To Class: ClassName=BMS029B_FETs Member=Component J8 XT90PW-M
+Added Member To Class: ClassName=BMS029B_FETs Member=Component J9 XT90PW-M
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R22 Resistor
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R24 WSK25121L000FEA
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R25 0805_res
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R26 0805_res
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R27 0805_res
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R29 0805_res
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R31 0805_res
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R44 10K
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R46 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R50 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R51 5.1K
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R52 Resistor_0603

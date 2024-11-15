@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VSS Pin=RT1-2
+Removed Pin From Net: NetName=VSS Pin=RT2-2
+Removed Pin From Net: NetName=NetC26_2 Pin=TP8-1
+Removed Member From Class: ClassName=BMS029B_Monitor Member=RT1
+Removed Member From Class: ClassName=BMS029B_Monitor Member=RT2
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP8
+Added Component: Designator=J9(4-Pin JST XH - Right Angle Connector Pinheader)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.on-shore.com/wp-content/uploads/2019/02/OSTTEXX0161.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ContactFinish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current_A"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Shore Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "HDR6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "OSTTE060161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row_Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "SYM-OSTTE060161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_V"; Value = "300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=J9-2
+Added Pin To Net: NetName=VSS Pin=J9-4
+Change Net Name : Old Net Name=TS2 New Net Name=NetJ6_2
+Added Pin To Net: NetName=sicaklik1 Pin=J9-3
+Added Pin To Net: NetName=sicaklik1 Pin=U1-23
+Added Net: Name=sicaklik1
+Added Pin To Net: NetName=sicaklik2 Pin=J9-1
+Added Pin To Net: NetName=sicaklik2 Pin=U1-21
+Added Net: Name=sicaklik2
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component J9 4-Pin JST XH

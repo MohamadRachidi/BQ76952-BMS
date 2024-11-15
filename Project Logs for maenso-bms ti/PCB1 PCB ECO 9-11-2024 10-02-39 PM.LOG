@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DSG Pin=D10-1
+Removed Pin From Net: NetName=VSS Pin=D10-2
+Removed Pin From Net: NetName=PACK Pin=D11-1
+Removed Pin From Net: NetName=VSS Pin=D11-2
+Removed Pin From Net: NetName=LD Pin=D12-1
+Removed Pin From Net: NetName=VSS Pin=D12-2
+Removed Pin From Net: NetName=PACK+ Pin=J9-S1
+Removed Pin From Net: NetName=PACK+ Pin=J9-S2
+Removed Pin From Net: NetName=DSG Pin=Q6-3
+Removed Pin From Net: NetName=DSG Pin=R52-1
+Removed Member From Class: ClassName=BMS029B_FETs Member=D10
+Removed Member From Class: ClassName=BMS029B_FETs Member=D11
+Removed Member From Class: ClassName=BMS029B_FETs Member=D12
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=R52-1
+Added Net: Name=NetQ6_3

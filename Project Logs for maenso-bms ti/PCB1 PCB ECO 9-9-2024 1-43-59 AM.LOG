@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=sicaklik2 Pin=J7-1
+Removed Pin From Net: NetName=sicaklik2 Pin=U1-21
+Change Component Description : Designator=R24 Old Description=WSK2512 SMD Resistor,1W,1%,1L New Description=WSK2512 SMD Resistor,1W,1%,1L | Vishay Dale WSK25121L000FEA
+Change Net Name : Old Net Name=sicaklik2 New Net Name=NetC25_1
+Added Pin To Net: NetName=sicaklik2 Pin=J7-1
+Added Pin To Net: NetName=sicaklik2 Pin=U1-21
+Added Net: Name=sicaklik2

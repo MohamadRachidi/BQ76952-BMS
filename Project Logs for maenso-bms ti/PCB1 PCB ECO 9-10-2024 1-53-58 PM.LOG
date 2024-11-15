@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=R38 Old DesignItemId=Resistor New DesignItemId=Resistor_0805
+Change Component DesignItemId : Designator=R39 Old DesignItemId=Resistor New DesignItemId=Resistor_0805
+Change Component Footprint: Designator=R38 Old Footprint=2512 New Footprint=SMD 0805 res
+Change Component Footprint: Designator=R39 Old Footprint=2512 New Footprint=SMD 0805 res
+Change Component Comment : Designator=D2 Old Comment=BAT46W-7-F New Comment=ccc
+Change Component Comment : Designator=R38 Old Comment=CRCW120620R0FKEA New Comment=0805_res
+Change Component Comment : Designator=R39 Old Comment=CRCW120620R0FKEA New Comment=0805_res
+Change Component Description : Designator=R38 Old Description=RES, 20.0, 1%, 0.25 W, AEC-Q200 Grade 0, 1206 New Description=0.25 W, AEC-Q200 Grade 0, 0805
+Change Component Description : Designator=R39 Old Description=RES, 20.0, 1%, 0.25 W, AEC-Q200 Grade 0, 1206 New Description=0.25 W, AEC-Q200 Grade 0, 0805

@@ -1,0 +1,105 @@
+Change Component Footprint: Designator=R2 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R3 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R4 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R6 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R7 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R9 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R10 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R11 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R12 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R13 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R14 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R15 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R16 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R18 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R19 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R20 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R21 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R38 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R39 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R49 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R52 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R53 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R54 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R55 Old Footprint=1206 New Footprint=2512
+Change Component Footprint: Designator=R56 Old Footprint=1206 New Footprint=2512
+Change component parameters: Designator = "R38" ("R38"); Footprint = "1206"; UniqueID = "\TXJKVNDK" ("\TXJKVNDK")
+Change component parameters (AddParameter): Name = "AEC Category"; Value = "Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AEC Grade"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AEC Qualified"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EIA_Code"; Value = "E96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_EU RoHS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_EU RoHS-2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_REACh"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW120620R0FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power_W"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Res_ohm"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "5.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "3.2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "1.6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1.35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-20.0FCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "42K4894"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "71-CRCW1206-20-E3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TempCo"; Value = "100 ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance_%"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value1"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value_Code"; Value = "20R0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDisplayed"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC_V"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39" ("R39"); Footprint = "1206"; UniqueID = "\QCARNFGC" ("\QCARNFGC")
+Change component parameters (AddParameter): Name = "AEC Category"; Value = "Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AEC Grade"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AEC Qualified"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EIA_Code"; Value = "E96"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_EU RoHS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_EU RoHS-2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_REACh"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW120620R0FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power_W"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Res_ohm"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "5.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "3.2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "1.6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1.35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-20.0FCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "42K4894"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "71-CRCW1206-20-E3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TempCo"; Value = "100 ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance_%"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value1"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value_Code"; Value = "20R0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDisplayed"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC_V"; Value = "200V"; VariantName = "[No Variations]"

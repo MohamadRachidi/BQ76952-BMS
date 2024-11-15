@@ -1,0 +1,114 @@
+Removed Member From Class: ClassName=BMS029B_FETs Member=D1
+Removed Member From Class: ClassName=BMS029B_FETs Member=D2
+Removed Member From Class: ClassName=BMS029B_FETs Member=NT1
+Removed Member From Class: ClassName=BMS029B_FETs Member=R1
+Removed Member From Class: ClassName=BMS029B_FETs Member=R7
+Removed Member From Class: ClassName=BMS029B_FETs Member=R8
+Removed Member From Class: ClassName=BMS029B_FETs Member=R10
+Removed Member From Class: ClassName=BMS029B_FETs Member=R12
+Removed Member From Class: ClassName=BMS029B_FETs Member=R13
+Removed Member From Class: ClassName=BMS029B_FETs Member=R15
+Removed Member From Class: ClassName=BMS029B_FETs Member=R17
+Removed Member From Class: ClassName=BMS029B_FETs Member=R19
+Removed Member From Class: ClassName=BMS029B_FETs Member=R21
+Removed Member From Class: ClassName=BMS029B_Monitor Member=R36
+Removed Member From Class: ClassName=BMS029B_Monitor Member=R54
+Removed Member From Class: ClassName=BMS029B_Monitor Member=R55
+Removed Member From Class: ClassName=BMS029B_FETs Member=TP2
+Removed Member From Class: ClassName=BMS029B_FETs Member=TP5
+Removed Member From Class: ClassName=BMS029B_FETs Member=TP6
+Removed Member From Class: ClassName=BMS029B_FETs Member=TP7
+Removed Member From Class: ClassName=BMS029B_FETs Member=TP8
+Removed Member From Class: ClassName=BMS029B_FETs Member=TP10
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP18
+Removed Member From Class: ClassName=BMS029B_Monitor Member=TP29
+Change Component Footprint: Designator=J2 Old Footprint=FP-OSTTE050161_HDR5-MFG New Footprint=5-Pin JST XH - Right Angle Connector Pinheader
+Change Component Footprint: Designator=J1 Old Footprint=FP-OSTTE060161_HDR6-MFG New Footprint=6-Pin JST XH - Right Angle Connector Pinheader
+Change Component Footprint: Designator=J3 Old Footprint=FP-OSTTE060161_HDR6-MFG New Footprint=6-Pin JST XH - Right Angle Connector Pinheader
+Change Component Comment : Designator=J2 Old Comment=OSTTE050161 New Comment=5-Pin JST XH
+Change component parameters: Designator = "J2" ("J2"); Footprint = "FP-OSTTE050161_HDR5-MFG"; UniqueID = "\TOQFEDJS" ("\TOQFEDJS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.on-shore.com/wp-content/uploads/2019/02/OSTTEXX0161.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ContactFinish"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current_A"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Shore Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "HDR6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "OSTTE060161"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row_Count"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol Name"; Value = "SYM-OSTTE060161"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage_V"; Value = "300V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C10 C3216X7R2A105K160AA
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C15 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C16 Capacitor_0805
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C17 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C18 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C21 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C23 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C25 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C29 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C30 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C31 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C32 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C33 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C34 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C35 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C37 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component C38 C1608X7R1H224K080AB
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D3
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D4 MMSZ5246B-7-F
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D5 MMSZ5246B-7-F
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D6 MMSZ5246B-7-F
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D7
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D8 MMSZ5246B-7-F
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D9 BAT46W-7-F
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D10 BAT46W-7-F
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D11 BAT46W-7-F
+Added Member To Class: ClassName=BMS029B_FETs Member=Component D12 BAT46W-7-F
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component J5 Jumper
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component J6
+Added Member To Class: ClassName=BMS029B_FETs Member=Component NT2 Net-Tie
+Added Member To Class: ClassName=BMS029B_FETs Member=Component Q4 BSZ900N15NS3 G
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R5 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R14 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R16 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R18 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R20 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R22 Resistor
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R23 Resistor
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R26 Resistor
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R27 Resistor
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R28 Resistor
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R29 Resistor
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R30 Resistor
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R32 Resistor
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R34 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R37 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R38 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R41 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R43 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R45 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R46 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R47 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R48 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R49 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R50 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R51 Resistor_0603
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R52 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R53 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_FETs Member=Component R56 CRCW120620R0FKEA
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component TP4 TESTPOINT
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component TP9 TESTPOINT
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component TP13
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component TP15 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP16 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP17 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP20 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP22 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP23 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP24 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP25 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP27 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP28 TESTPOINT
+Added Member To Class: ClassName=BMS029B_FETs Member=Component TP31 TESTPOINT

@@ -1,0 +1,405 @@
+Removed Pin From Net: NetName=CD Pin=Q4-2
+Removed Pin From Net: NetName=CD Pin=Q5-2
+Removed Pin From Net: NetName=NetD5_1 Pin=R43-1
+Removed Pin From Net: NetName=CHG Pin=R46-2
+Removed Pin From Net: NetName=NetD5_1 Pin=R49-1
+Removed Member From Class: ClassName=BMS029B_Monitor Member=R57
+Change Component Footprint: Designator=R49 Old Footprint=2512 New Footprint=0603S
+Change Component Footprint: Designator=Q4 Old Footprint=MOSFET N-CH TO247 90 derece New Footprint=PG-TDSON-8
+Change Component Footprint: Designator=Q5 Old Footprint=MOSFET N-CH TO247 90 derece New Footprint=PG-TDSON-8
+Change Component Comment : Designator=Q4 Old Comment=100V, 130A New Comment=BSC160N15NS5ATMA1
+Change Component Comment : Designator=Q5 Old Comment=100V, 130A New Comment=BSC160N15NS5ATMA1
+Change Component Comment : Designator=R34 Old Comment=CRCW120620R0FKEA New Comment=4k7
+Change Component Comment : Designator=R49 Old Comment=CRCW120620R0FKEA New Comment=10K
+Change Component Comment : Designator=R43 Old Comment=Resistor_0603 New Comment=5.1K
+Change Component Comment : Designator=R47 Old Comment=Resistor_0603 New Comment=5.1k
+Change Component Comment : Designator=R48 Old Comment=Resistor_0603 New Comment=5.1K
+Change Component Comment : Designator=R40 Old Comment=Resistor_0603 New Comment=10M
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C15
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=C26 NewDesignator=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C25
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Component Designator: OldDesignator=R22 NewDesignator=R25
+Change Component Designator: OldDesignator=R23 NewDesignator=R26
+Change Component Designator: OldDesignator=R24 NewDesignator=R27
+Change Component Designator: OldDesignator=R25 NewDesignator=R28
+Change Component Designator: OldDesignator=R26 NewDesignator=R29
+Change Component Designator: OldDesignator=R27 NewDesignator=R30
+Change Component Designator: OldDesignator=R28 NewDesignator=R31
+Change Component Designator: OldDesignator=R29 NewDesignator=R32
+Change Component Designator: OldDesignator=R30 NewDesignator=R22
+Change Component Designator: OldDesignator=R31 NewDesignator=R23
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R44 NewDesignator=R45
+Change Component Designator: OldDesignator=R45 NewDesignator=R46
+Change Component Designator: OldDesignator=R50 NewDesignator=R52
+Change Component Designator: OldDesignator=R51 NewDesignator=R50
+Change Component Designator: OldDesignator=R57 NewDesignator=R24
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "MOSFET N-CH TO247 90 derece"; UniqueID = "\QDPRPHED" ("\QDPRPHED")
+Change component parameters (AddParameter): Name = "AEC Category"; Value = "Q101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AEC Qualified"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ChType"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/dgdl/Infineon-BSC160N15NS5-DS-v02_02-EN.pdf?fileId=5546d46253f650570154a055b7215b1b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "MOSFET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "56A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "2017-06-05"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Added parts."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "PG-TDSON-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BSC160N15NS5ATMA1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "2008-06-19"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "19.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rdson45_ohm"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "29.351"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "55.131"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "5.99"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "4.9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BSC160N15NS5ATMA1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "726-BSC160N15NS5ATM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value1"; Value = "? ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "19 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vault Folder"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "MOSFET N-CH TO247 90 derece"; UniqueID = "\EKONDKKF" ("\EKONDKKF")
+Change component parameters (AddParameter): Name = "AEC Category"; Value = "Q101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AEC Qualified"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ChType"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/dgdl/Infineon-BSC160N15NS5-DS-v02_02-EN.pdf?fileId=5546d46253f650570154a055b7215b1b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "MOSFET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IdsMax_A"; Value = "56A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "2017-06-05"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Added parts."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "PG-TDSON-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BSC160N15NS5ATMA1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "2008-06-19"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "QgTyp_nC"; Value = "19.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rdson45_ohm"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "29.351"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeAreaWB_mm2"; Value = "55.131"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "5.99"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "4.9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BSC160N15NS5ATMA1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "726-BSC160N15NS5ATM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value1"; Value = "? ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "19 nC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vault Folder"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VdsMax_V"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs_V"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49" ("R49"); Footprint = "2512"; UniqueID = "\LCEPEWGW" ("\LCEPEWGW")
+Change component parameters (AddParameter): Name = "AEC Category"; Value = "Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AEC Grade"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AEC Qualified"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EIA_Code"; Value = "E24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_EU RoHS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_EU RoHS-2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green_REACh"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "2017-06-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW0603100RJNEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power_W"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "2008-06-26"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Res_ohm"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeArea_mm2"; Value = "1.28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeX_mm"; Value = "1.6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeY_mm"; Value = "0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-100GCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "59M6764"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "71-CRCW0603J-100-E3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "2009-05-29"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TempCo"; Value = "200 ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance_%"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value1"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "0.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value_Code"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueDisplayed"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC_V"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(PG-TDSON-8)
+Add component (AddParameter): Name = "AEC Category"; Value = "Q101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AEC Qualified"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ChType"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/dgdl/Infineon-BSC160N15NS5-DS-v02_02-EN.pdf?fileId=5546d46253f650570154a055b7215b1b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IdsMax_A"; Value = "56A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2017-06-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Added parts."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TDSON-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BSC160N15NS5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2008-06-19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QgTyp_nC"; Value = "19.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rdson45_ohm"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeArea_mm2"; Value = "29.351"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeAreaWB_mm2"; Value = "55.131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeX_mm"; Value = "5.99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeY_mm"; Value = "4.9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeZ_mm"; Value = "1.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSC160N15NS5ATMA1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "726-BSC160N15NS5ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "? ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "19 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vault Folder"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax_V"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs_V"; Value = "20V"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(PG-TDSON-8)
+Add component (AddParameter): Name = "AEC Category"; Value = "Q101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AEC Qualified"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ChType"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/dgdl/Infineon-BSC160N15NS5-DS-v02_02-EN.pdf?fileId=5546d46253f650570154a055b7215b1b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IdsMax_A"; Value = "56A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2017-06-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Added parts."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TDSON-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BSC160N15NS5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2008-06-19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QgTyp_nC"; Value = "19.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rdson45_ohm"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeArea_mm2"; Value = "29.351"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeAreaWB_mm2"; Value = "55.131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeX_mm"; Value = "5.99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeY_mm"; Value = "4.9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeZ_mm"; Value = "1.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSC160N15NS5ATMA1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "726-BSC160N15NS5ATM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "? ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "19 nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vault Folder"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax_V"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs_V"; Value = "20V"; VariantName = "[No Variations]"
+Added Component: Designator=R44(0603S)
+Add component (AddParameter): Name = "AEC Category"; Value = "Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AEC Grade"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AEC Qualified"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA_Code"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_EU RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_EU RoHS-2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_REACh"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2017-06-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CRCW0603100RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_W"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2008-06-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Res_ohm"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeArea_mm2"; Value = "1.28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeX_mm"; Value = "1.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeY_mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-100GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "59M6764"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "71-CRCW0603J-100-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2009-05-29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "200 ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance_%"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_Code"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDisplayed"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC_V"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R51(0603S)
+Add component (AddParameter): Name = "AEC Category"; Value = "Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AEC Grade"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AEC Qualified"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA_Code"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_EU RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_EU RoHS-2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green_REACh"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2017-06-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CRCW0603100RJNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_W"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2008-06-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Res_ohm"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeArea_mm2"; Value = "1.28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeX_mm"; Value = "1.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeY_mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeZ_mm"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-100GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "59M6764"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "71-CRCW0603J-100-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2009-05-29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "200 ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance_%"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_Code"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDisplayed"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC_V"; Value = "75V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CHG Pin=D4-1
+Added Pin To Net: NetName=NetD5_1 Pin=D9-1
+Added Pin To Net: NetName=NetD5_1 Pin=D10-1
+Added Pin To Net: NetName=FBAT Pin=Q4-1
+Added Pin To Net: NetName=FBAT Pin=Q4-2
+Added Pin To Net: NetName=CD Pin=Q4-5
+Added Pin To Net: NetName=CD Pin=Q4-6
+Added Pin To Net: NetName=CD Pin=Q4-7
+Added Pin To Net: NetName=CD Pin=Q4-8
+Added Pin To Net: NetName=CD Pin=Q4-9
+Added Pin To Net: NetName=PACK+ Pin=Q5-1
+Added Pin To Net: NetName=PACK+ Pin=Q5-2
+Added Pin To Net: NetName=CD Pin=Q5-5
+Added Pin To Net: NetName=CD Pin=Q5-6
+Added Pin To Net: NetName=CD Pin=Q5-7
+Added Pin To Net: NetName=CD Pin=Q5-8
+Added Pin To Net: NetName=CD Pin=Q5-9
+Added Pin To Net: NetName=FBAT Pin=Q8-1
+Added Pin To Net: NetName=FBAT Pin=Q8-2
+Added Pin To Net: NetName=FBAT Pin=Q8-3
+Added Pin To Net: NetName=CD Pin=Q8-5
+Added Pin To Net: NetName=CD Pin=Q8-6
+Added Pin To Net: NetName=CD Pin=Q8-7
+Added Pin To Net: NetName=CD Pin=Q8-8
+Added Pin To Net: NetName=CD Pin=Q8-9
+Added Pin To Net: NetName=PACK+ Pin=Q9-1
+Added Pin To Net: NetName=PACK+ Pin=Q9-2
+Added Pin To Net: NetName=PACK+ Pin=Q9-3
+Added Pin To Net: NetName=CD Pin=Q9-5
+Added Pin To Net: NetName=CD Pin=Q9-6
+Added Pin To Net: NetName=CD Pin=Q9-7
+Added Pin To Net: NetName=CD Pin=Q9-8
+Added Pin To Net: NetName=CD Pin=Q9-9
+Added Pin To Net: NetName=CHG Pin=R40-1
+Added Pin To Net: NetName=CHG Pin=R43-2
+Added Pin To Net: NetName=NetD5_1 Pin=R44-2
+Added Pin To Net: NetName=NetD5_1 Pin=R49-2
+Added Pin To Net: NetName=CHG Pin=R51-2
+Added Pin To Net: NetName=NetD5_1 Pin=U1-43
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetD5_1 New Net Name=DSG
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=NetJ3_4
+Change Net Name : Old Net Name=NetJ2_5 New Net Name=NetJ3_5
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ3_4 New Net Name=NetJ2_4
+Change Net Name : Old Net Name=NetJ3_5 New Net Name=NetJ2_5
+Added Pin To Net: NetName=NetQ4_4 Pin=Q4-4
+Added Pin To Net: NetName=NetQ4_4 Pin=R43-1
+Added Net: Name=NetQ4_4
+Added Pin To Net: NetName=NetQ5_4 Pin=Q5-4
+Added Pin To Net: NetName=NetQ5_4 Pin=R44-1
+Added Net: Name=NetQ5_4
+Added Pin To Net: NetName=NetQ8_4 Pin=Q8-4
+Added Pin To Net: NetName=NetQ8_4 Pin=R51-1
+Added Net: Name=NetQ8_4
+Added Pin To Net: NetName=NetQ9_4 Pin=Q9-4
+Added Pin To Net: NetName=NetQ9_4 Pin=R49-1
+Added Net: Name=NetQ9_4
+Added Member To Class: ClassName=BMS029B_FETs Member=Component Q8 BSC160N15NS5ATMA1
+Added Member To Class: ClassName=BMS029B_FETs Member=Component Q9 BSC160N15NS5ATMA1
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component R33 Resistor

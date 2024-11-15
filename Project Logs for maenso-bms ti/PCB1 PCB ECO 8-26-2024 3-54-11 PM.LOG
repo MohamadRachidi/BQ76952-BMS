@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=BAT+ Pin=J8-1
+Removed Pin From Net: NetName=BAT+ Pin=J8-2
+Removed Pin From Net: NetName=PACK+ Pin=J9-1
+Removed Pin From Net: NetName=PACK+ Pin=J9-2
+Removed Pin From Net: NetName=VSS Pin=J10-1
+Removed Pin From Net: NetName=VSS Pin=J10-2
+Removed Pin From Net: NetName=PGND Pin=J11-1
+Removed Pin From Net: NetName=PGND Pin=J11-2
+Removed Member From Class: ClassName=BMS029B_FETs Member=J9
+Removed Member From Class: ClassName=BMS029B_FETs Member=J10
+Removed Member From Class: ClassName=BMS029B_FETs Member=J11
+Change Component Footprint: Designator=J8 Old Footprint=AMASS_XT60PW-M New Footprint=AMASS_XT90PW-M
+Change Component Comment : Designator=J8 Old Comment=XT60PW-M New Comment=XT90PW-M
+Change component parameters: Designator = "J8" ("J8"); Footprint = "AMASS_XT60PW-M"; UniqueID = "\MQKHPMYR" ("\MQKHPMYR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT90PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "XT90PW-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT90PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(AMASS_XT90PW-M)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT90PW-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT90PW-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT90PW-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=J7-N
+Added Pin To Net: NetName=BAT+ Pin=J7-P
+Added Pin To Net: NetName=PGND Pin=J8-N
+Added Pin To Net: NetName=PACK+ Pin=J8-P
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component J2 OSTTE060161
+Added Member To Class: ClassName=BMS029B_FETs Member=Component J7 XT90PW-M

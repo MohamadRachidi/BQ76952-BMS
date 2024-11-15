@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=PACK+ Pin=J9-S1
+Removed Pin From Net: NetName=PACK+ Pin=J9-S2
+Removed Pin From Net: NetName=VSS Pin=R24-1
+Removed Pin From Net: NetName=NetR22_2 Pin=R24-2
+Removed Pin From Net: NetName=PGND Pin=R24-3
+Removed Pin From Net: NetName=NetR23_2 Pin=R24-4
+Removed Member From Class: ClassName=BMS029B_Monitor Member=R24
+Added Component: Designator=X1(WSL36372L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSL36372L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wsl36372l000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30099/wsl3637.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.889mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSL36372L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSL36372L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSL36372L000FEA?qs=BZd8gNRIy3gZE1V4EKNECw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR22_2 Pin=X1-E1
+Added Pin To Net: NetName=NetR23_2 Pin=X1-E2
+Added Pin To Net: NetName=VSS Pin=X1-I1
+Added Pin To Net: NetName=PGND Pin=X1-I2
+Added Member To Class: ClassName=BMS029B_Monitor Member=Component X1 WSL36372L000FEA

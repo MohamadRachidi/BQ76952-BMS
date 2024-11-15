@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VSS Pin=NT1-2
+Removed Member From Class: ClassName=BMS029B_Monitor Member=NT1
+Change Component Description : Designator=R24 Old Description=WSK2512 SMD Resistor,1W,1%,1L New Description=WSK2512 SMD Resistor,1W,1%,1L | Vishay Dale WSK25121L000FEA
+Added Pin To Net: NetName=VSS Pin=J3-6
+Added Pin To Net: NetName=VSS Pin=R21-1
+Added Pin To Net: NetName=VSS Pin=R24-1
+Change Net Name : Old Net Name=VSS New Net Name=BAT-
